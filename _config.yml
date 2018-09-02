@@ -1,0 +1,67 @@
+typography_spectrum: 0.46653238631646604
+color:
+  brandStrength: 0.22108074536547065
+  lightness: 0.11141661602883868
+  saturation: 0.6194951593644438
+  rhythmicContrast: 0.9936957024384548
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.05416823995465616
+name: ginni & andrei
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: România
+    id: db3dc662-1435-4007-88f6-e6275878789f
+    type: content
+  - name: India
+    id: caf2305a-2289-4d58-9e4a-8e438b735b91
+    type: content
+title: 'Our Wedding '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fcbeaf2-dc2c-40a9-b505-be6f590e1743.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fcbeaf2-dc2c-40a9-b505-be6f590e1743.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Ginni and Andrei decided to get married. Here is where you find everything
+  that is important.
+purpose: []
+github: true
+author:
+  name: Andrei Bechet
+  email: abechet@gmail.com
+  url: 'https://andreibechet/thegrid-test'
+opengraph:
+  appId: Bechet
+analytics:
+  twitter: '10'
