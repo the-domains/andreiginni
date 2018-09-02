@@ -58,10 +58,12 @@ description: >-
 purpose: []
 github: true
 author:
-  name: Andrei Bechet
+  name: ''
   email: abechet@gmail.com
   url: 'https://andreibechet/thegrid-test'
 opengraph:
   appId: Bechet
 analytics:
   twitter: '10'
+content_rating:
+  adult: false
